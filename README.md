@@ -1,4 +1,4 @@
-## Finished projects:
+## Projects:
 - [cclip](https://github.com/heather7283/cclip) - clipboard manager for wayland
 - [frzscr](https://github.com/heather7283/frzscr) - program to freeze your screen for wayland
 - [foot-layer-shell](https://codeberg.org/heather7283/foot-layer-shell) - fork of [foot](https://codeberg.org/dnkl/foot) with wlr-layer-shell support
