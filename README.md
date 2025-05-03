@@ -5,6 +5,7 @@
 - [pollen](https://github.com/heather7283/pollen) - single header event loop library built on top of epoll
 - [xdg-desktop-portal-termfilechooser](https://github.com/heather7283/xdg-desktop-portal-termfilechooser) - configurable file picker portal backend
 - [pipemixer](https://github.com/heather7283/pipemixer) - TUI volume control application for pipewire
+- [ssedit](https://github.com/heather7283/ssedit) - Stupid Screenshot EDitor
 
  
 <!--
