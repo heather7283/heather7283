@@ -8,6 +8,7 @@
 - [ssedit](https://github.com/heather7283/ssedit) - Stupid Screenshot EDitor
 
 ## Other stuff
+- [dotfiles](https://github.com/heather7283/dotfiles) - my system config
 - [gentoo overlay](https://github.com/heather7283/gentoo-overlay) - my personal gentoo ebuild repo, most of my software is packaged there
 
  
