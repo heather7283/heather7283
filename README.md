@@ -6,6 +6,7 @@
 - [xdg-desktop-portal-termfilechooser](https://github.com/heather7283/xdg-desktop-portal-termfilechooser) - configurable file picker portal backend
 - [pipemixer](https://github.com/heather7283/pipemixer) - TUI volume control application for pipewire
 - [ssedit](https://github.com/heather7283/ssedit) - Stupid Screenshot EDitor
+- [yestty](https://github.com/heather7283/yestty) - trick apps into thinking they are reading/writing from/to a TTY
 
 ## Other stuff
 - [dotfiles](https://github.com/heather7283/dotfiles) - my system config
