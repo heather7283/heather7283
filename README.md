@@ -7,6 +7,7 @@
 - [pipemixer](https://github.com/heather7283/pipemixer) - TUI volume control application for pipewire
 - [ssedit](https://github.com/heather7283/ssedit) - Stupid Screenshot EDitor
 - [yestty](https://github.com/heather7283/yestty) - trick apps into thinking they are reading/writing from/to a TTY
+- [todo](https://github.com/heather7283/todo) - a CLI TODO app to keep track of tasks
 
 ## Other stuff
 - [dotfiles](https://github.com/heather7283/dotfiles) - my system config
