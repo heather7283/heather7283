@@ -1,17 +1,17 @@
 ### Consequences of having too much free time and zero social life
 - [cclip](https://github.com/heather7283/cclip) - clipboard manager for wayland
-- [frzscr](https://github.com/heather7283/frzscr) - program to freeze your screen for wayland
+- [frzscr](https://github.com/heather7283/frzscr) - program for freezing your screen on wayland
 - [foot-layer-shell](https://codeberg.org/heather7283/foot-layer-shell) - fork of [foot](https://codeberg.org/dnkl/foot) with wlr-layer-shell support
 - [pollen](https://github.com/heather7283/pollen) - single header event loop library built on top of epoll
-- [xdg-desktop-portal-termfilechooser](https://github.com/heather7283/xdg-desktop-portal-termfilechooser) - configurable file picker portal backend
+- [xdptf](https://github.com/heather7283/xdg-desktop-portal-termfilechooser) - configurable file picker xdg desktop portal backend
 - [pipemixer](https://github.com/heather7283/pipemixer) - TUI volume control application for pipewire
 - [ssedit](https://github.com/heather7283/ssedit) - Stupid Screenshot EDitor
 - [yestty](https://github.com/heather7283/yestty) - trick apps into thinking they are reading/writing from/to a TTY
-- [todo](https://github.com/heather7283/todo) - a CLI TODO app to keep track of tasks
+- [todo](https://github.com/heather7283/todo) - CLI TODO utility for keeping track of tasks
 
 ### Other stuff
 - [dotfiles](https://github.com/heather7283/dotfiles) - my system config
-- [gentoo overlay](https://github.com/heather7283/gentoo-overlay) - my personal gentoo ebuild repo, most of my software is packaged there
+- [gentoo overlay](https://github.com/heather7283/gentoo-overlay) - my gentoo ebuild repo, most of my software is packaged there
 
  
 <!--
