@@ -1,4 +1,4 @@
-## Projects
+### Consequences of having too much free time and zero social life
 - [cclip](https://github.com/heather7283/cclip) - clipboard manager for wayland
 - [frzscr](https://github.com/heather7283/frzscr) - program to freeze your screen for wayland
 - [foot-layer-shell](https://codeberg.org/heather7283/foot-layer-shell) - fork of [foot](https://codeberg.org/dnkl/foot) with wlr-layer-shell support
@@ -9,7 +9,7 @@
 - [yestty](https://github.com/heather7283/yestty) - trick apps into thinking they are reading/writing from/to a TTY
 - [todo](https://github.com/heather7283/todo) - a CLI TODO app to keep track of tasks
 
-## Other stuff
+### Other stuff
 - [dotfiles](https://github.com/heather7283/dotfiles) - my system config
 - [gentoo overlay](https://github.com/heather7283/gentoo-overlay) - my personal gentoo ebuild repo, most of my software is packaged there
 
