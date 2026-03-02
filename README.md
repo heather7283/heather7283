@@ -8,10 +8,10 @@ Writing (mostly) TUI/CLI utilities for the Linux desktop
 - [xdptf](https://github.com/heather7283/xdg-desktop-portal-termfilechooser) - configurable file picker xdg desktop portal backend
 - [pipemixer](https://github.com/heather7283/pipemixer) - TUI volume mixer for pipewire
 - [estrogen](https://github.com/heather7283/estrogen) - Declarative CLI **trans**coding tool
-- [ssedit](https://github.com/heather7283/ssedit) - stupid screenshot editor
 - [yestty](https://github.com/heather7283/yestty) - trick apps into thinking they are connected to a TTY
-- [todo](https://github.com/heather7283/todo) - CLI TODO utility for keeping track of tasks
-- [(WIP) campanula](https://github.com/heather7283/campanula) - TUI subsonic client
+- (WIP) [campanula](https://github.com/heather7283/campanula) - TUI subsonic client
+- (DEPRECATED) [ssedit](https://github.com/heather7283/ssedit) - stupid screenshot editor
+- (DEPRECATED) [todo](https://github.com/heather7283/todo) - CLI TODO utility for keeping track of tasks
 
 ### Other stuff
 - [dotfiles](https://github.com/heather7283/dotfiles) - my system config
